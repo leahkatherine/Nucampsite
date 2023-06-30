@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../ask-a-local/startbootstrap-clean-blog-gh-pages/assets"
+		},
+		{
+			"path": "../ask-a-local/startbootstrap-clean-blog-gh-pages/css"
+		},
+		{
+			"path": "../ask-a-local/startbootstrap-clean-blog-gh-pages/js"
+		},
+		{
+			"path": "../ask-a-local"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ask-a-local"
+	}
+}
